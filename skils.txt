@@ -1,0 +1,11 @@
+I will learn in this course:
+1) use github 
+2) gitbush 
+3) postman 
+4) QA 
+5) DBeaver
+6) Charles
+7) Fiddler
+8) JS
+9) Python
+10) SQL
